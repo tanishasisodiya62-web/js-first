@@ -26,5 +26,5 @@ let state;
 // object
 
 console.log(typeof undifined); // undifined
-console.log(tyoeof null); // object
+// console.log(tyoeof age); // object
 
